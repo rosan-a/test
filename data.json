@@ -1,0 +1,16 @@
+[
+    { "title": "Item One", "description": "This is the first item." },
+    { "title": "Item Two", "description": "This is the second item." },
+    { "title": "Item Three", "description": "This is the third item." },
+    { "title": "Apple", "description": "A red fruit." },
+    { "title": "Banana", "description": "A yellow fruit." },
+    { "title": "Cherry", "description": "A small red fruit." },
+    { "title": "Mango", "description": "A tropical fruit." },
+    { "title": "Pineapple", "description": "A spiky fruit." },
+    { "title": "Grapes", "description": "Small purple or green fruit." },
+    { "title": "Avocado", "description": "A green creamy fruit." }
+
+
+]
+    
+
